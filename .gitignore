@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+connect_qr.png
+
+shared_files/*
+!shared_files/.gitkeep
